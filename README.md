@@ -11,11 +11,11 @@
 
 ### Languages  
 <div align="center">  
-  <span><img title="Julia" alt="Julia icon " height="35px" src="img/julia.svg">
-  <img title="Python" alt="Python icon " height="35px" src="img/python.svg">
-  <img title="Scala" alt="Scala icon " height="35px" src="img/scala.svg">
-  <img title="R" alt="R icon " height="35px" src="img/r.svg">
-  <img title="Matlab" alt="Matlab icon " height="35px" src="img/matlab.svg">
+  <span><img title="Julia" alt="Julia icon " height="35px" src="./img/julia.svg">
+  <img title="Python" alt="Python icon " height="35px" src="./img/python.svg">
+  <img title="Scala" alt="Scala icon " height="35px" src="./img/scala.svg">
+  <img title="R" alt="R icon " height="35px" src="./img/r.svg">
+  <img title="Matlab" alt="Matlab icon " height="35px" src="./img/matlab.svg">
   </span>
 </div>  
 
@@ -23,12 +23,12 @@
 
 ### Databases  
 <div align="center">  
-  <span><img title="MySQL" alt="MySQL icon " height="35px" src="img/mysql.svg">
-  <img title="PostgresSQL" alt="PostgresSQL icon " height="35px" src="img/PostgresSQL.svg">
-  <img title="MongoDB" alt="MongoDB icon " height="35px" src="img/mongodb.svg">
-  <img title="Cassandra" alt="Cassandra icon " height="35px" src="img/Cassandra.svg">
-  <img title="SnowFlake" alt="SnowFlake icon " height="35px" src="img/snowflake.svg">
-  <img title="Neo4j" alt="Neo4j icon " height="35px" src="img/neo4j.svg">
+  <span><img title="MySQL" alt="MySQL icon " height="35px" src="./img/mysql.svg">
+  <img title="PostgresSQL" alt="PostgresSQL icon " height="35px" src="./img/PostgresSQL.svg">
+  <img title="MongoDB" alt="MongoDB icon " height="35px" src="./img/mongodb.svg">
+  <img title="Cassandra" alt="Cassandra icon " height="35px" src="./img/Cassandra.svg">
+  <img title="SnowFlake" alt="SnowFlake icon " height="35px" src="./img/snowflake.svg">
+  <img title="Neo4j" alt="Neo4j icon " height="35px" src="./img/neo4j.svg">
 </div>  
 
 
