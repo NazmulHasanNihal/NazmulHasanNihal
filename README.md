@@ -11,19 +11,18 @@
 
 ### Languages  
 <div align="center">  
-  <span><img title="Julia" alt="Julia icon " height="35px" src="img/julia.svg">
+  <img title="Julia" alt="Julia icon " height="35px" src="img/julia.svg">
   <img title="Python" alt="Python icon " height="35px" src="img/python.svg">
   <img title="Scala" alt="Scala icon " height="35px" src="img/scala.svg">
   <img title="R" alt="R icon " height="35px" src="img/r.svg">
   <img title="Matlab" alt="Matlab icon " height="35px" src="img/matlab.svg">
-  </span>
 </div>  
 
 
 
 ### Databases  
 <div align="center">  
-  <span><img title="MySQL" alt="MySQL icon " height="35px" src="img/mysql.svg">
+  <img title="MySQL" alt="MySQL icon " height="35px" src="img/mysql.svg">
   <img title="PostgresSQL" alt="PostgresSQL icon " height="35px" src="img/postgressql.svg">
   <img title="MongoDB" alt="MongoDB icon " height="35px" src="img/mongodb.svg">
   <img title="Cassandra" alt="Cassandra icon " height="35px" src="img/cassandra.svg">
@@ -57,12 +56,11 @@
 
 ### Data Analysis & Manipulation  
 <div align="center">  
-  <span><img title="Numpy" alt="Numpy icon " height="35px" src="img/numpy.svg">
+  <img title="Numpy" alt="Numpy icon " height="35px" src="img/numpy.svg">
   <img title="Pandas" alt="Pandas icon " height="35px" src="img/pandas.svg">
   <img title="Excel" alt="Excel icon " height="35px" src="img/excel.svg">
   <img title="Dask" alt="Dask icon " height="35px" src="img/dask.svg">
   <img title="Polars" alt="Polars icon " height="35px" src="img/polars.svg">
-  </span>
 </div>  
 
 
