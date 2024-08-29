@@ -55,6 +55,106 @@
 
 
 
+### Data Analysis & Manipulation  
+<div align="center">  
+  <span><img title="Numpy" alt="Numpy icon " height="35px" src="./img/numpy.svg">
+  <img title="Pandas" alt="Pandas icon " height="35px" src="./img/pandas.svg">
+  <img title="Excel" alt="Excel icon " height="35px" src="./img/excel.svg">
+  <img title="Dask" alt="Dask icon " height="35px" src="./img/dask.svg">
+  <img title="Polars" alt="Polars icon " height="35px" src="./img/polars.svg">
+  </span>
+</div>  
+
+
+
+### Big Data & Distributed Computing  
+<div align="center">  
+  <img title="Apache Spark" alt="Apache Spark icon " height="35px" src="./img/apache Spark.svg">
+  <img title="Apache Hadoop" alt="Apache Hadoop icon " height="35px" src="./img/Apache Hadoop.svg">
+  <img title="Apache Kafka" alt="Apache Kafka icon " height="35px" src="./img/Apache Kafka.svg">
+  <img title="Apache Flink" alt="Apache Flink icon " height="35px" src="./img/Flink.svg">
+  <img title="Apache Hive" alt="Apache Hive icon " height="35px" src="./img/apache Hive.svg">
+</div>  
+
+
+
+### Deployment & DevOps  
+<div align="center">  
+  <img title="Docker" alt="Docker icon " height="35px" src="./img/Docker.svg">
+  <img title="Kubernetes" alt="Kubernetes icon " height="35px" src="./img/Kubernetes.svg">
+  <img title="Django" alt="Django icon " height="35px" src="./img/django.svg">
+  <img title="Flask" alt="Flask icon " height="35px" src="./img/Flask.svg">
+</div>  
+
+
+</td><td valign="top" width="33%">
+
+
+
+### Machine Learning  & Deep Learning  
+<div align="center">  
+  <img title="Scikit-Learn" alt="Scikit-Learn icon " height="45px" src="./img/Scikit-Learn.svg">
+  <img title="TensorFlow" alt="TensorFlow icon " height="35px" src="./img/TensorFlow.svg">
+  <img title="Keras" alt="Keras icon " height="35px" src="./img/Keras.svg">
+  <img title="PyTorch" alt="PyTorch icon " height="35px" src="./img/PyTorch.svg">
+  <img title="XGBoost" alt="XGBoost icon " height="35px" src="./img/XGBoost.svg">
+  <img title="LightGBM" alt="LightGBM icon " height="60px" src="./img/lightgbm.svg">
+</div>  
+
+
+
+### Data Visualization  
+<div align="center">  
+  <img title="Matplotlib" alt="Matplotlib icon " height="35px" src="./img/Matplotlib.svg">
+  <img title="Seaborn" alt="Seaborn icon " height="35px" src="./img/Seaborn.svg">
+  <img title="Plotly" alt="Plotly icon " height="35px" src="./img/Plotly.svg">
+  <img title="Power BI" alt="Power BI icon " height="35px" src="./img/Power BI.svg">
+  <img title="Streamlit" alt="Streamlit icon " height="35px" src="./img/Streamlit.svg">
+</div>  
+
+
+
+### Software Development Tools
+<div align="center">  
+  <img title="Visual Studio Code" alt="Visual Studio Code icon " height="35px" src="./img/Visual Studio Code.svg">
+  <img title="PyCharm" alt="PyCharm icon " height="35px" src="./img/PyCharm.svg">
+  <img title="Jupyter Notebook" alt="Jupyter Notebook icon " height="35px" src="./img/Jupyter.svg">
+  <img title="RStudio" alt="RStudio icon " height="35px" src="./img/RStudio.svg">
+  <img title="PowerPoint" alt="PowerPoint icon " height="35px" src="./img/powerpoint.svg">
+  <img title="Adobe Illustrator" alt="Adobe Illustrator icon " height="35px" src="./img/Adobe Illustrator.svg">
+  <img title="Adobe Photoshop" alt="Adobe Photoshop icon " height="35px" src="./img/Photoshop.svg">
+  <img title="DBeaver" alt="DBeaver icon " height="35px" src="./img/dBeaver.svg">
+  <img title="Anaconda" alt="Anaconda icon " height="35px" src="./img/Anaconda.svg">
+  <img title="Sypder" alt="Sypder icon " height="55px" src="./img/spyder.svg">
+  <img title="FastApi" alt="FastApi icon " height="35px" src="./img/FastApi.svg">
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/nazmulhasannihal" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/8lack.rabbit" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://gitlab.com/NazmulHasanNihal" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/nazmulhas363" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/nazmulhasannihal" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
 
 
 ## Github Stats  
