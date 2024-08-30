@@ -14,7 +14,8 @@
   <img title="Python" alt="Python icon" height="35px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
   <img title="Scala" alt="Scala icon" height="35px" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg">
   <img title="R" alt="R icon" height="35px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
-  <img title="JuliaLang" alt="JuliaLang icon" height="35px" src="https://www.vectorlogo.zone/logos/julialang/julialang-ar21.svg">
+  <img title="Julia" alt="Julia logo" height="35px" src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg">
+
   <img title="MATLAB" alt="MATLAB icon" height="35px" src="https://www.svgrepo.com/show/373830/matlab.svg">
 
 
@@ -24,32 +25,33 @@
 
 ### Databases  
 <div align="center">  
-  <img title="MySQL" alt="MySQL icon " height="35px" src="img/mysql.svg">
-  <img title="PostgresSQL" alt="PostgresSQL icon " height="35px" src="img/postgressql.svg">
-  <img title="MongoDB" alt="MongoDB icon " height="35px" src="img/mongodb.svg">
-  <img title="Cassandra" alt="Cassandra icon " height="35px" src="img/cassandra.svg">
-  <img title="SnowFlake" alt="SnowFlake icon " height="35px" src="img/snowflake.svg">
-  <img title="Neo4j" alt="Neo4j icon " height="35px" src="img/neo4j.svg">
+  <img title="MySQL" alt="MySQL logo" height="35px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+  <img title="PostgreSQL" alt="PostgreSQL logo" height="35px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
+  <img title="MongoDB" alt="MongoDB logo" height="35px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+  <img title="Cassandra" alt="Cassandra logo" height="35px" src="https://www.svgrepo.com/show/353540/cassandra.svg">
+  <img title="Snowflake" alt="Snowflake logo" height="35px" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg">
+  <img title="Neo4j" alt="Neo4j logo" height="35px" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg">
+
 </div>  
 
 
 
 ### Automation & Scripting  
 <div align="center">  
-  <img title="Bash" alt="Bash icon " height="35px" src="img/bash.svg">
-  <img title="PowerShell" alt="PowerShell icon " height="35px" src="img/powershell.svg">
+  <img title="GNU Bash" alt="GNU Bash logo" height="35px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
+  <img title="PowerShell" alt="PowerShell logo" height="35px" src="https://www.svgrepo.com/show/373992/powershell.svg">
   <img title="Apache Airflow" alt="Apache Airflow icon " height="35px" src="img/apacheairflow.svg">
-  <img title="Terraform" alt="Terraform icon " height="60px" src="img/terraform.svg">
-  <img title="Apache NiFi" alt="Apache NiFi icon " height="35px" src="img/apachenifi.svg">
+  <img title="Terraform" alt="Terraform logo" height="35px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
+  <img title="Apache NiFi" alt="Apache NiFi logo" height="35px" src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-ar21.svg">
 </div>  
 
 
 
 ### Version Control & Collaboration  
 <div align="center">  
-  <img title="Git" alt="Git icon " height="35px" src="img/git.svg">
-  <img title="GitHub" alt="GitHub icon " height="35px" src="img/gitHub.svg">
-  <img title="GitLab" alt="GitLab icon " height="35px" src="img/gitLab.svg">
+  <img title="Git" alt="Git logo" height="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img title="GitHub" alt="GitHub icon " height="35px" src="img/github.svg">
+  <img title="GitLab" alt="GitLab icon " height="35px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg">
 </div>
 
 </td><td valign="top" width="33%">
@@ -58,7 +60,7 @@
 
 ### Data Analysis & Manipulation  
 <div align="center">  
-  <img title="Numpy" alt="Numpy icon " height="35px" src="img/numpy.svg">
+  <img title="Numpy" alt="Numpy icon " height="35px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg">
   <img title="Pandas" alt="Pandas icon " height="35px" src="img/pandas.svg">
   <img title="Excel" alt="Excel icon " height="35px" src="img/excel.svg">
   <img title="Dask" alt="Dask icon " height="35px" src="img/dask.svg">
