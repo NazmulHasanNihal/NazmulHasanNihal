@@ -110,7 +110,7 @@
   <img title="Seaborn" alt="Seaborn icon " height="35px" src="img/seaborn.svg">
   <img title="Plotly" alt="Plotly icon " height="35px" src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg">
   <img title="Power BI" alt="Power BI icon " height="35px" src="img/powerbi.svg">
-  <img title="Streamlit" alt="Streamlit icon " height="35px" src="img/streamlit.svg">
+  <img title="Streamlit" alt="Streamlit icon " height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Streamlit-logo-primary-colormark-darktext.png/800px-Streamlit-logo-primary-colormark-darktext.png">
 </div>  
 
 
@@ -119,14 +119,14 @@
 <div align="center">  
   <img title="Visual Studio Code" alt="Visual Studio Code icon " height="35px" src="img/visualstudiocode.svg">
   <img title="Visual Studio" alt="Visual Studio icon " height="35px" src="img/visualstudio.svg">
-  <img title="PyCharm" alt="PyCharm icon " height="35px" src="img/pycharm.svg">
-  <img title="Jupyter Notebook" alt="Jupyter Notebook icon " height="35px" src="img/jupyter.svg">
-  <img title="RStudio" alt="RStudio icon " height="35px" src="img/rstudio.svg">
-  <img title="DBeaver" alt="DBeaver icon " height="35px" src="img/dbeaver.svg">
-  <img title="Anaconda" alt="Anaconda icon " height="35px" src="img/anaconda.svg">
-  <img title="Sypder" alt="Sypder icon " height="55px" src="img/spyder.svg">
-  <img title="Linux" alt="Linux icon " height="35px" src="img/linux.svg">
-  <img title="Ubuntu" alt="Ubuntu icon " height="35px" src="img/ubuntu.svg">
+  <img title="PyCharm" alt="PyCharm icon " height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">
+  <img title="Jupyter Notebook" alt="Jupyter Notebook icon " height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/663px-Jupyter_logo.svg.png">
+  <img title="RStudio" alt="RStudio icon " height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/640px-RStudio_logo_flat.svg.png">
+  <img title="DBeaver" alt="DBeaver icon " height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/768px-DBeaver_logo.svg.png">
+  <img title="Anaconda" alt="Anaconda icon " height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Conda_logo.svg/497px-Conda_logo.svg.png">
+  <img title="Sypder" alt="Sypder icon " height="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/500px-Spyder_logo.svg.png">
+  <img title="Linux" alt="Linux icon " height="40px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+  <img title="Ubuntu" alt="Ubuntu icon " height="35px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">
   
 </div>
 
