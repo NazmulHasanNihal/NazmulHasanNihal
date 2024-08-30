@@ -38,7 +38,7 @@
 
 ### Automation & Scripting  
 <div align="center">  
-  <img title="GNU Bash" alt="GNU Bash logo" height="35px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
+  <img title="GNU Bash" alt="GNU Bash logo" height="35px" src="img/bash.svg">
   <img title="PowerShell" alt="PowerShell logo" height="35px" src="https://www.svgrepo.com/show/373992/powershell.svg">
   <img title="Apache Airflow" alt="Apache Airflow icon " height="35px" src="img/apacheairflow.svg">
   <img title="Terraform" alt="Terraform logo" height="35px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
