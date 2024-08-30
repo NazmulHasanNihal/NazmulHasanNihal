@@ -61,9 +61,9 @@
 ### Data Analysis & Manipulation  
 <div align="center">  
   <img title="Numpy" alt="Numpy icon " height="35px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg">
-  <img title="Pandas" alt="Pandas icon " height="35px" src="img/pandas.svg">
+  <img title="Pandas" alt="Pandas logo" height="35px" src="https://worldvectorlogo.com/logos/pandas">
   <img title="Excel" alt="Excel icon " height="35px" src="img/excel.svg">
-  <img title="Dask" alt="Dask icon " height="35px" src="img/dask.svg">
+  <img title="Dask" alt="Dask icon " height="35px" src="https://www.vectorlogo.zone/logos/dask/dask-icon.svg">
   <img title="Polars" alt="Polars icon " height="35px" src="img/polars.svg">
 </div>  
 
@@ -71,21 +71,21 @@
 
 ### Big Data & Distributed Computing  
 <div align="center">  
-  <img title="Apache Spark" alt="Apache Spark icon " height="35px" src="img/apachespark.svg">
-  <img title="Apache Hadoop" alt="Apache Hadoop icon " height="35px" src="img/apachehadoop.svg">
-  <img title="Apache Kafka" alt="Apache Kafka icon " height="35px" src="img/apachekafka.svg">
+  <img title="Apache Spark" alt="Apache Spark icon " height="35px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg">
+  <img title="Apache Hadoop" alt="Apache Hadoop icon " height="35px" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg">
+  <img title="Apache Kafka" alt="Apache Kafka icon " height="35px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
   <img title="Apache Flink" alt="Apache Flink icon " height="35px" src="img/flink.svg">
-  <img title="Apache Hive" alt="Apache Hive icon " height="35px" src="img/apachehive.svg">
+  <img title="Apache Hive" alt="Apache Hive icon " height="35px" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg">
 </div>  
 
 
 
 ### Deployment & DevOps  
 <div align="center">  
-  <img title="Docker" alt="Docker icon " height="35px" src="img/docker.svg">
-  <img title="Kubernetes" alt="Kubernetes icon " height="35px" src="img/kubernetes.svg">
-  <img title="Django" alt="Django icon " height="35px" src="img/django.svg">
-  <img title="Flask" alt="Flask icon " height="35px" src="img/flask.svg">
+  <img title="Docker" alt="Docker icon " height="35px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+  <img title="Kubernetes" alt="Kubernetes icon " height="35px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
+  <img title="Django" alt="Django icon " height="35px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+  <img title="Flask" alt="Flask icon " height="35px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
 </div>  
 
 
