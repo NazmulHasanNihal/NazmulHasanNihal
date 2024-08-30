@@ -1,6 +1,6 @@
-## I'm Fullstack Data Scientist
+## I'm an Fullstack Data Scientist
 
-⚡ I'm **Md Nazmul**, aspiring Data Scientist with a strong academic background in Computer Science, eager to apply theoretical knowledge to real-world problems. Proficient in Python, R, and SQL, with hands-on experience in data analysis, machine learning, and data visualization through projects. Skilled in leveraging tools like Pandas, NumPy, Scikit-learn, and Tableau to extract insights and build predictive models. A quick learner with a passion for continuous improvement, committed to developing innovative solutions to complex challenges. Seeking an opportunity to contribute to data-driven decision-making and grow within a dynamic team.
+⚡ I'm **Md Nazmul**, an aspiring Data Scientist with a strong academic background in Computer Science, eager to apply theoretical knowledge to real-world problems. Proficient in Python, R, and SQL, with hands-on experience in data analysis, machine learning, and data visualization through projects. I am skilled in leveraging tools like Pandas, NumPy, Scikit-learn, and Tableau to extract insights and build predictive models. A quick learner with a passion for continuous improvement committed to developing innovative solutions to complex challenges and seeking an opportunity to contribute to data-driven decision-making and grow within a dynamic team.
 
 
 
