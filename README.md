@@ -50,7 +50,7 @@
 ### Version Control & Collaboration  
 <div align="center">  
   <img title="Git" alt="Git logo" height="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMGMtNi42MjYgMC0xMiA1LjM3My0xMiAxMiAwIDUuMzAyIDMuNDM4IDkuOCA4LjIwNyAxMS4zODcuNTk5LjExMS43OTMtLjI2MS43OTMtLjU3N3YtMi4yMzRjLTMuMzM4LjcyNi00LjAzMy0xLjQxNi00LjAzMy0xLjQxNi0uNTQ2LTEuMzg3LTEuMzMzLTEuNzU2LTEuMzMzLTEuNzU2LTEuMDg5LS43NDUuMDgzLS43MjkuMDgzLS43MjkgMS4yMDUuMDg0IDEuODM5IDEuMjM3IDEuODM5IDEuMjM3IDEuMDcgMS44MzQgMi44MDcgMS4zMDQgMy40OTIuOTk3LjEwNy0uNzc1LjQxOC0xLjMwNS43NjItMS42MDQtMi42NjUtLjMwNS01LjQ2Ny0xLjMzNC01LjQ2Ny01LjkzMSAwLTEuMzExLjQ2OS0yLjM4MSAxLjIzNi0zLjIyMS0uMTI0LS4zMDMtLjUzNS0xLjUyNC4xMTctMy4xNzYgMCAwIDEuMDA4LS4zMjIgMy4zMDEgMS4yMy45NTctLjI2NiAxLjk4My0uMzk5IDMuMDAzLS40MDQgMS4wMi4wMDUgMi4wNDcuMTM4IDMuMDA2LjQwNCAyLjI5MS0xLjU1MiAzLjI5Ny0xLjIzIDMuMjk3LTEuMjMuNjUzIDEuNjUzLjI0MiAyLjg3NC4xMTggMy4xNzYuNzcuODQgMS4yMzUgMS45MTEgMS4yMzUgMy4yMjEgMCA0LjYwOS0yLjgwNyA1LjYyNC01LjQ3OSA1LjkyMS40My4zNzIuODIzIDEuMTAyLjgyMyAyLjIyMnYzLjI5M2MwIC4zMTkuMTkyLjY5NC44MDEuNTc2IDQuNzY1LTEuNTg5IDguMTk5LTYuMDg2IDguMTk5LTExLjM4NiAwLTYuNjI3LTUuMzczLTEyLTEyLTEyeiIvPjwvc3ZnPg==" title="Github" alt="Github icon" height="35px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png" title="Github" alt="Github icon" height="35px">
   <img title="GitLab" alt="GitLab icon " height="35px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg">
 </div>
 
@@ -96,20 +96,19 @@
 ### Machine Learning  & Deep Learning  
 <div align="center">  
   <img title="Scikit-Learn" alt="Scikit-Learn icon " height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png">
-  <img title="TensorFlow" alt="TensorFlow icon " height="35px" src="img/tensorflow.svg">
-  <img title="Keras" alt="Keras icon " height="35px" src="img/keras.svg">
-  <img title="PyTorch" alt="PyTorch icon " height="35px" src="img/pytorch.svg">
-  <img title="XGBoost" alt="XGBoost icon " height="35px" src="img/xgboost.svg">
+  <img title="TensorFlow" alt="TensorFlow icon " height="55px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
+  <img title="Keras" alt="Keras icon " height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png">
+  <img title="PyTorch" alt="PyTorch icon " height="45px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
+  <img title="XGBoost" alt="XGBoost icon " height="25px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png">
   <img title="LightGBM" alt="LightGBM icon " height="60px" src="img/lightgbm.svg">
 </div>  
 
 
-
 ### Data Visualization  
 <div align="center">  
-  <img title="Matplotlib" alt="Matplotlib icon " height="35px" src="img/matplotlib.svg">
+  <img title="Matplotlib" alt="Matplotlib icon " height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/480px-Matplotlib_icon.svg.png">
   <img title="Seaborn" alt="Seaborn icon " height="35px" src="img/seaborn.svg">
-  <img title="Plotly" alt="Plotly icon " height="35px" src="img/plotly.svg">
+  <img title="Plotly" alt="Plotly icon " height="35px" src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg">
   <img title="Power BI" alt="Power BI icon " height="35px" src="img/powerbi.svg">
   <img title="Streamlit" alt="Streamlit icon " height="35px" src="img/streamlit.svg">
 </div>  
