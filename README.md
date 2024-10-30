@@ -85,7 +85,6 @@
   <img title="Docker" alt="Docker icon " height="35px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
   <img title="Kubernetes" alt="Kubernetes icon " height="35px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
   <img title="Django" alt="Django icon " height="35px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
-  <img title="Flask" alt="Flask icon " height="35px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
 </div>  
 
 
