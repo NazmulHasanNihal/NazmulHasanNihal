@@ -1,164 +1,264 @@
-## I'm an Fullstack Data Scientist
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Profile%20README-181717?style=for-the-badge&logo=github" alt="GitHub Profile README">
+  <img src="https://img.shields.io/badge/Markdown-Documentation-000000?style=for-the-badge&logo=markdown" alt="Markdown">
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20Machine%20Learning%20%7C%20Data%20Engineering-2563EB?style=for-the-badge" alt="Focus areas">
+  <img src="https://img.shields.io/badge/License-Profile%20repo%20unspecified-lightgrey?style=for-the-badge" alt="License">
+</p>
 
-⚡ I'm **Md Nazmul**, an aspiring Data Scientist with a strong academic background in Computer Science, eager to apply theoretical knowledge to real-world problems. Proficient in Python, R, and SQL, with hands-on experience in data analysis, machine learning, and data visualization through projects. I am skilled in leveraging tools like Pandas, NumPy, Scikit-learn, and Tableau to extract insights and build predictive models. A quick learner with a passion for continuous improvement committed to developing innovative solutions to complex challenges and seeking an opportunity to contribute to data-driven decision-making and grow within a dynamic team.
+<h1 align="center">Hi, I'm Md Nazmul Hasan Nihal 👋</h1>
 
+<h3 align="center">Full-Stack Data Scientist | Machine Learning | Data Engineering</h3>
 
+<p align="center">
+  I turn complex data into reliable, explainable, and decision-ready systems.
+</p>
 
+---
 
+## 🎯 Project Overview
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+I am a Computer Science-trained full-stack data scientist focused on building end-to-end data products that move from raw information to measurable business value. My work combines statistical analysis, machine learning, data engineering, and application development to create reproducible pipelines, production-minded models, and intuitive interfaces for real-world decision-making.
 
-### Languages  
-<div align="center">  
-  <img title="Python" alt="Python icon" height="35px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-  <img title="Scala" alt="Scala icon" height="35px" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg">
-  <img title="R" alt="R icon" height="35px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
-  <img title="Julia" alt="Julia logo" height="35px" src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg">
+I am especially interested in solving problems where technical depth and practical impact meet: detecting risk, understanding behavior, automating workflows, and translating analytical results into clear actions for stakeholders.
 
-  <img title="MATLAB" alt="MATLAB icon" height="35px" src="https://www.svgrepo.com/show/373830/matlab.svg">
+### At a Glance
 
+| Focus Area | What I Deliver | Core Tools |
+|---|---|---|
+| **Data Science & Machine Learning** | Exploratory analysis, predictive modeling, model evaluation, and interpretable insights | Python, R, SQL, pandas, scikit-learn, PyTorch, TensorFlow |
+| **Data Engineering** | Scalable ingestion, streaming, transformation, and storage workflows | Spark, Kafka, Flink, Airflow, PostgreSQL, MongoDB |
+| **Full-Stack Delivery** | APIs, dashboards, and maintainable applications that make models usable | FastAPI, Django, Flask, Docker, Kubernetes |
+| **Analytics & Storytelling** | Clear visual narratives, KPI tracking, and decision-focused reporting | Excel, Power BI, Tableau, Plotly, Streamlit |
 
-</div>  
+---
 
+## ✨ Key Capabilities
 
+- **End-to-end data products:** Move from data acquisition and cleaning to modeling, deployment, monitoring, and communication.
+- **Machine learning & statistical modeling:** Build and evaluate supervised, unsupervised, and time-aware models with an emphasis on reproducibility and interpretability.
+- **Real-time data engineering:** Design streaming architectures for high-volume event data using modern distributed systems.
+- **Interactive analytics:** Create dashboards and visualizations that help technical and nontechnical teams act on evidence.
+- **Production-minded engineering:** Use version control, containerization, automation, APIs, and clear documentation to make solutions maintainable.
+- **Research-to-implementation:** Translate mathematical and scientific ideas into practical experiments, prototypes, and reusable software.
 
-### Databases  
-<div align="center">  
-  <img title="MySQL" alt="MySQL logo" height="35px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-  <img title="PostgreSQL" alt="PostgreSQL logo" height="35px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
-  <img title="MongoDB" alt="MongoDB logo" height="35px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
-  <img title="Cassandra" alt="Cassandra logo" height="35px" src="https://www.svgrepo.com/show/353540/cassandra.svg">
-  <img title="Snowflake" alt="Snowflake logo" height="35px" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg">
-  <img title="Neo4j" alt="Neo4j logo" height="35px" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg">
+---
 
-</div>  
+## 🚀 Featured Projects
 
+| Project | Problem Solved | Technology Highlights |
+|---|---|---|
+| [**Intelligent-AML**](https://github.com/NazmulHasanNihal/Intelligent-AML) | Risk-controlled spatio-temporal graph learning for anti-money-laundering detection | Python, PyTorch, graph ML, FastAPI, React, Docker |
+| [**q-grax-dti**](https://github.com/NazmulHasanNihal/q-grax-dti) | Quantum-inspired graph attention for drug–target interaction and affinity prediction | Python, graph neural networks, uncertainty calibration |
+| [**OpsHub / Employee Management System**](https://github.com/NazmulHasanNihal/employee_management_system) | Scalable HR platform for employee lifecycle, attendance, payroll, and internal operations | Next.js, Go, PostgreSQL, Supabase, Redis |
+| [**SmartStream**](https://github.com/NazmulHasanNihal/SmartStream-A-Real-Time-IoT-Data-Engineering-Pipeline) | Real-time IoT pipeline from sensor simulation to streaming analytics and live dashboards | Kafka, Flink, PostgreSQL, FastAPI, Streamlit, Docker |
+| [**Fake News Detection**](https://github.com/NazmulHasanNihal/Fake-News-Detection-Naive-Bayes-and-LinearSVC-Approaches) | Interpretable text classification comparing TF-IDF, LinearSVC, and Naive Bayes approaches | Python, scikit-learn, TF-IDF, Jupyter |
+| [**NoSQL Social Media Influence Analysis**](https://github.com/NazmulHasanNihal/NoSQL-Based-Real-Time-Social-Media-Engagement-Influence-Analysis) | NoSQL analytics for engagement, sentiment, hashtag behavior, and influence networks | MongoDB, Python, NLP, NetworkX, visualization |
+| [**Marketing Campaign Performance Analysis**](https://github.com/NazmulHasanNihal/Marketing-Campaign-Performance-Analysis) | Multi-channel campaign evaluation using ROI, CPL, CAC, and audience-level KPIs | Excel, PivotTables, dashboards, business analytics |
 
+> Explore the complete portfolio on [GitHub](https://github.com/NazmulHasanNihal?tab=repositories).
 
-### Automation & Scripting  
-<div align="center">  
-  <img title="GNU Bash" alt="GNU Bash logo" height="35px" src="img/bash.svg">
-  <img title="PowerShell" alt="PowerShell logo" height="35px" src="https://www.svgrepo.com/show/373992/powershell.svg">
-  <img title="Apache Airflow" alt="Apache Airflow icon " height="35px" src="img/apacheairflow.svg">
-  <img title="Terraform" alt="Terraform logo" height="35px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
-  <img title="Apache NiFi" alt="Apache NiFi logo" height="35px" src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-ar21.svg">
-</div>  
+---
 
+## 🧰 Technologies
 
+### Languages & Querying
 
-### Version Control & Collaboration  
-<div align="center">  
-  <img title="Git" alt="Git logo" height="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png" title="Github" alt="Github icon" height="35px">
-  <img title="GitLab" alt="GitLab icon " height="35px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg">
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Data Analysis & Manipulation  
-<div align="center">  
-  <img title="Numpy" alt="Numpy icon " height="35px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg">
-  <img title="Pandas" alt="Pandas logo" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png">
-  <img title="Excel" alt="Excel icon " height="35px" src="img/excel.svg">
-  <img title="Dask" alt="Dask icon " height="35px" src="https://www.vectorlogo.zone/logos/dask/dask-icon.svg">
-  <img title="Polars" alt="Polars icon " height="35px" src="img/polars.svg">
-</div>  
-
-
-
-### Big Data & Distributed Computing  
-<div align="center">  
-  <img title="Apache Spark" alt="Apache Spark icon " height="35px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg">
-  <img title="Apache Hadoop" alt="Apache Hadoop icon " height="35px" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg">
-  <img title="Apache Kafka" alt="Apache Kafka icon " height="35px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
-  <img title="Apache Flink" alt="Apache Flink icon " height="35px" src="img/flink.svg">
-  <img title="Apache Hive" alt="Apache Hive icon " height="35px" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg">
-</div>  
-
-
-
-### Deployment & DevOps  
-<div align="center">  
-  <img title="Docker" alt="Docker icon " height="35px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
-  <img title="Kubernetes" alt="Kubernetes icon " height="35px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
-  <img title="Django" alt="Django icon " height="35px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
-</div>  
-
-
-</td><td valign="top" width="33%">
-
-
-
-### Machine Learning  & Deep Learning  
-<div align="center">  
-  <img title="Scikit-Learn" alt="Scikit-Learn icon " height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png">
-  <img title="TensorFlow" alt="TensorFlow icon " height="55px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
-  <img title="Keras" alt="Keras icon " height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png">
-  <img title="PyTorch" alt="PyTorch icon " height="45px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
-  <img title="XGBoost" alt="XGBoost icon " height="25px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png">
-  <img title="LightGBM" alt="LightGBM icon " height="60px" src="img/lightgbm.svg">
-</div>  
-
-
-### Data Visualization  
-<div align="center">  
-  <img title="Matplotlib" alt="Matplotlib icon " height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/480px-Matplotlib_icon.svg.png">
-  <img title="Seaborn" alt="Seaborn icon " height="35px" src="img/seaborn.svg">
-  <img title="Plotly" alt="Plotly icon " height="35px" src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg">
-  <img title="Power BI" alt="Power BI icon " height="35px" src="img/powerbi.svg">
-  <img title="Streamlit" alt="Streamlit icon " height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Streamlit-logo-primary-colormark-darktext.png/800px-Streamlit-logo-primary-colormark-darktext.png">
-</div>  
-
-
-
-### Software Development Tools
-<div align="center">  
-  <img title="Visual Studio Code" alt="Visual Studio Code icon " height="35px" src="img/visualstudiocode.svg">
-  <img title="Visual Studio" alt="Visual Studio icon " height="35px" src="img/visualstudio.svg">
-  <img title="PyCharm" alt="PyCharm icon " height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">
-  <img title="Jupyter Notebook" alt="Jupyter Notebook icon " height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/663px-Jupyter_logo.svg.png">
-  <img title="RStudio" alt="RStudio icon " height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/640px-RStudio_logo_flat.svg.png">
-  <img title="DBeaver" alt="DBeaver icon " height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/768px-DBeaver_logo.svg.png">
-  <img title="Anaconda" alt="Anaconda icon " height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Conda_logo.svg/497px-Conda_logo.svg.png">
-  <img title="Sypder" alt="Sypder icon " height="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/500px-Spyder_logo.svg.png">
-  <img title="Linux" alt="Linux icon " height="40px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
-  <img title="Ubuntu" alt="Ubuntu icon " height="35px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">
-  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/nazmulhasannihal" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/8lack.rabbit" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/NazmulHasanNihal" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/nazmulhas363" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/nazmulhasannihal" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <img src="img/Python.svg" alt="Python" width="38" />
+  <img src="img/R.svg" alt="R" width="38" />
+  <img src="img/Scala.svg" alt="Scala" width="38" />
+  <img src="img/Julia.svg" alt="Julia" width="38" />
+  <img src="img/MATLAB.svg" alt="MATLAB" width="38" />
+  <strong>SQL</strong>
+</div>
 
-<br/>  
+### Data Analysis, ML & Visualization
 
+<div align="center">
+  <img src="img/NumPy.svg" alt="NumPy" width="38" />
+  <img src="img/Pandas.svg" alt="pandas" width="38" />
+  <img src="img/dask.svg" alt="Dask" width="38" />
+  <img src="img/polars.svg" alt="Polars" width="38" />
+  <img src="img/scikitlearn.svg" alt="scikit-learn" width="38" />
+  <img src="img/TensorFlow.svg" alt="TensorFlow" width="38" />
+  <img src="img/Keras.svg" alt="Keras" width="38" />
+  <img src="img/PyTorch.svg" alt="PyTorch" width="38" />
+  <img src="img/xgboost.svg" alt="XGBoost" width="38" />
+  <img src="img/lightgbm.svg" alt="LightGBM" width="38" />
+  <img src="img/Matplotlib.svg" alt="Matplotlib" width="38" />
+  <img src="img/seaborn.svg" alt="Seaborn" width="38" />
+  <img src="img/Plotly.svg" alt="Plotly" width="38" />
+  <img src="img/powerbi.svg" alt="Power BI" width="38" />
+  <img src="img/tableau.svg" alt="Tableau" width="38" />
+  <img src="img/Streamlit.svg" alt="Streamlit" width="38" />
+</div>
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=NazmulHasanNihal&show_icons=true&count_private=true&hide_border=true" align="left" />  
+### Data Platforms & Distributed Systems
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHasanNihal&hide_border=true&layout=compact" align="center" /></div>
-<br />
+<div align="center">
+  <img src="img/MySQL.svg" alt="MySQL" width="38" />
+  <img src="img/PostgresSQL.svg" alt="PostgreSQL" width="38" />
+  <img src="img/MongoDB.svg" alt="MongoDB" width="38" />
+  <img src="img/Cassandra.svg" alt="Cassandra" width="38" />
+  <img src="img/snowflake.svg" alt="Snowflake" width="38" />
+  <img src="img/neo4j.svg" alt="Neo4j" width="38" />
+  <img src="img/SQLite.svg" alt="SQLite" width="38" />
+  <img src="img/apachespark.svg" alt="Apache Spark" width="38" />
+  <img src="img/apachehadoop.svg" alt="Apache Hadoop" width="38" />
+  <img src="img/apachekafka.svg" alt="Apache Kafka" width="38" />
+  <img src="img/flink.svg" alt="Apache Flink" width="38" />
+  <img src="img/apachehive.svg" alt="Apache Hive" width="38" />
+</div>
+
+### Automation, Deployment & Collaboration
+
+<div align="center">
+  <img src="img/bash.svg" alt="Bash" width="38" />
+  <img src="img/Powershell.svg" alt="PowerShell" width="38" />
+  <img src="img/apacheairflow.svg" alt="Apache Airflow" width="38" />
+  <img src="img/apachenifi.svg" alt="Apache NiFi" width="38" />
+  <img src="img/terraform.svg" alt="Terraform" width="38" />
+  <img src="img/Docker.svg" alt="Docker" width="38" />
+  <img src="img/Kubernetes.svg" alt="Kubernetes" width="38" />
+  <img src="img/django.svg" alt="Django" width="38" />
+  <img src="img/flask.svg" alt="Flask" width="38" />
+  <img src="img/fastapi.svg" alt="FastAPI" width="38" />
+  <img src="img/Git.svg" alt="Git" width="38" />
+  <img src="img/GitHub.svg" alt="GitHub" width="38" />
+  <img src="img/GitLab.svg" alt="GitLab" width="38" />
+</div>
+
+### Development, Research & Communication
+
+<div align="center">
+  <img src="img/visualstudiocode.svg" alt="Visual Studio Code" width="38" />
+  <img src="img/visualstudio.svg" alt="Visual Studio" width="38" />
+  <img src="img/PyCharm.svg" alt="PyCharm" width="38" />
+  <img src="img/Jupyter.svg" alt="Jupyter" width="38" />
+  <img src="img/RStudio.svg" alt="RStudio" width="38" />
+  <img src="img/DBeaver.svg" alt="DBeaver" width="38" />
+  <img src="img/Anaconda.svg" alt="Anaconda" width="38" />
+  <img src="img/spyder.svg" alt="Spyder" width="38" />
+  <img src="img/excel.svg" alt="Excel" width="38" />
+  <img src="img/LaTeX.svg" alt="LaTeX" width="38" />
+  <img src="img/powerpoint.svg" alt="PowerPoint" width="38" />
+  <img src="img/photoshop.svg" alt="Photoshop" width="38" />
+  <img src="img/adobeillustrator.svg" alt="Adobe Illustrator" width="38" />
+  <img src="img/Linux.svg" alt="Linux" width="38" />
+  <img src="img/Ubuntu.svg" alt="Ubuntu" width="38" />
+</div>
+
+---
+
+## 🛠️ Installation & Setup
+
+This repository is a **GitHub Profile README**, so it does not contain application code or require a runtime environment. No package installation or build step is needed.
+
+### Prerequisites
+
+- Git installed locally
+- A GitHub account with access to this repository
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/NazmulHasanNihal/NazmulHasanNihal.git
+cd NazmulHasanNihal
+```
+
+### Repository Details
+
+| Item | Details |
+|---|---|
+| **Repository** | `NazmulHasanNihal/NazmulHasanNihal` |
+| **Purpose** | GitHub profile README and supporting icon assets |
+| **Default branch** | `main` |
+| **Runtime** | None |
+| **Build pipeline** | Not configured for this profile repository |
+| **License** | Profile repository: unspecified |
+
+---
+
+## 🚀 Usage
+
+The `README.md` file is rendered automatically on my GitHub profile because the repository name matches my GitHub username.
+
+To update this profile:
+
+1. Edit the relevant section in `README.md`.
+2. Keep project links, skill names, and asset paths accurate.
+3. Store supporting visuals in the `img/` directory.
+4. Preview the Markdown before merging changes.
+5. Commit and push the update to `main`.
+
+Example project link format:
+
+```markdown
+[Project Name](https://github.com/NazmulHasanNihal/project-name)
+```
+
+This layout is designed to help recruiters, collaborators, and developers quickly understand my technical focus, review representative work, and navigate to detailed project repositories.
+
+---
+
+## 🤝 Contribution Guidelines
+
+Contributions are welcome when they improve clarity, accuracy, accessibility, or the overall presentation of this profile.
+
+1. **Fork the repository** and create a focused branch.
+2. **Make scoped changes** to the README or supporting assets.
+3. **Verify every link and image** renders correctly on GitHub.
+4. **Keep the tone professional, inclusive, and technically accurate.**
+5. **Do not add secrets, credentials, private data, or unrelated promotional content.**
+6. **Open a pull request** with a concise summary of the proposed changes.
+
+Suggested contributions include correcting outdated information, improving accessibility, refining project descriptions, and adding clearer navigation to representative work.
+
+---
+
+## 📁 Repository Contents
+
+```text
+NazmulHasanNihal/
+├── README.md
+└── img/
+    └── Technology, tool, and platform icons
+```
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nazmulhasannihal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/NazmulHasanNihal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://gitlab.com/NazmulHasanNihal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+  </a>
+  <a href="https://www.kaggle.com/nazmulhasannihal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-44BAE8?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="https://twitter.com/nazmulhas363" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://www.facebook.com/8lack.rabbit" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-2E87FB?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NazmulHasanNihal&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHasanNihal&hide_border=true&layout=compact" alt="Top languages" />
+</div>
+
+<p align="center">
+  <em>Built with a focus on clarity, reproducibility, and measurable impact.</em>
+</p>
